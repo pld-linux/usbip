@@ -1,8 +1,9 @@
+# NOTE: sources at sourceforge are outdated; now this project is maintained (and built) as part of kernel-tools
 Summary:	USB device sharing system over IP network
 Summary(pl.UTF-8):	System współdzielenia urządzeń USB po sieci IP
 Name:		usbip
 Version:	0.1.7
-Release:	1
+Release:	1.1
 License:	GPL v2
 Group:		Networking/Utilities
 Source0:	http://downloads.sourceforge.net/usbip/%{name}-%{version}.tar.gz
